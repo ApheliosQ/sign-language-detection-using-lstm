@@ -176,9 +176,9 @@ Ma trận nhầm lẫn cho thấy các hành động như **"xin chao"** và **"
 ![Poster](https://github.com/user-attachments/assets/627ca40f-2939-41d2-9cca-5c0882e45063)
 ## 📝 Bản quyền
 
-© 2025 DangTruongDuong-Nhóm 1-CNTT_16-01, Khoa Công nghệ Thông tin, Đại học Đại Nam. Mọi quyền được bảo lưu.
+© 2025 DoHoangQuy-Nhóm 1-CNTT_16-01, Khoa Công nghệ Thông tin, Đại học Đại Nam. Mọi quyền được bảo lưu.
 <div align="center">
 Được thực hiện bởi 💻 Nhóm 1-CNTT_16-01 tại Đại học Đại Nam
 
-Email cá nhân : dangtruonduong2102@gmail.com
+Email cá nhân : hquy2422004@gmail.com
 </div>
